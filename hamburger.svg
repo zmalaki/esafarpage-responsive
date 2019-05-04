@@ -1,0 +1,15 @@
+<svg id="round-menu-24px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35 35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #707070;
+      }
+    </style>
+  </defs>
+  <path id="Path_440" data-name="Path 440" class="cls-1" d="M0,0H35V35H0Z"/>
+  <path id="Path_441" data-name="Path 441" class="cls-2" d="M4.458,23.5H27.792a1.458,1.458,0,0,0,0-2.917H4.458a1.458,1.458,0,0,0,0,2.917Zm0-7.292H27.792a1.458,1.458,0,0,0,0-2.917H4.458a1.458,1.458,0,0,0,0,2.917ZM3,7.458A1.463,1.463,0,0,0,4.458,8.917H27.792a1.458,1.458,0,0,0,0-2.917H4.458A1.463,1.463,0,0,0,3,7.458Z" transform="translate(1.375 2.75)"/>
+</svg>
