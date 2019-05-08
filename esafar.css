@@ -1,5 +1,5 @@
 @font-face { font-family:MyFontNamee;
-src: url(IRANSansWeb_FaNum.woff2);
+src: url(./files/IRANSansWeb_FaNum.woff2);
 }  
 * {
 font-family:MyFontNamee;
@@ -51,7 +51,7 @@ color:#0061B3;
 text-decoration: none;
 }
 .section1{
-    background-image: url("neweSafarBG.jpg");
+    background-image: url("./files/neweSafarBG.jpg");
     background-size:cover;
     background-repeat: no-repeat;
  
@@ -68,7 +68,7 @@ width: 100% ;
  font-size: 0.8rem;
     }
 .background3{
-background-image: url("footerBG.jpg");
+background-image: url("./files/footerBG.jpg");
 background-repeat: no-repeat;
 width:100%;
 background-size:cover;
@@ -114,8 +114,10 @@ text-align: center;
     
 top: 5%;
 direction: ltr ;
+text-align: right;
 color: white;
 font-size: 1.5rem;
+margin-right: 20px;
 }
 
  .color a:hover{
